@@ -1,0 +1,4 @@
+1. SDN adatok lekérdezése python programmal
+2. SDN adatok lekérdezése Postman segítségével
+3. Python fájlkezelés, adatok belolvasása
+4. Python fájlkezelés, adatok kiírása fájlba
