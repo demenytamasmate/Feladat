@@ -19,3 +19,4 @@ with open(input_file, "r", encoding="utf-8") as f:
 # --- 2. JSON fájl írása ---
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(books, f, ensure_ascii=False, indent=4)
+print (file)
